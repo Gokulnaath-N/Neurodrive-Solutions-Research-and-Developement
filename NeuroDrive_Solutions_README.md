@@ -1,5 +1,8 @@
 # NeuroDrive Solutions | Research & Development
 
+![Uploading image.png…]()
+
+
 > **Research Today. Build Tomorrow. Create Real-World Impact.**
 >
 > A shared R&D workspace to investigate real-world problems, evaluate research and existing products, test technical ideas, document evidence, and develop practical human-centred AI and sensing systems.
